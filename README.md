@@ -3,9 +3,8 @@
 
 ## 项目概述
 本项目是一个获取B站个人粉丝数及关注数的CLI工具,以 FOL:关注数二进制[十进制] + FAN:粉丝数二进制[十进制] 的形式输出
-
+![2025-01-04_20-38-20-e0025eb8981e4bc20465b8338f2c9730.png](https://t.tutu.to/img/aY3g4)
 ## 前置条件
-![项目图](https://github.com/safe049/BiliFans/blob/main/bilifans.png)
 - Python 3.x
 - 网络连接[当然]
 
